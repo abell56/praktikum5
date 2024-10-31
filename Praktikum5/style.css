@@ -1,0 +1,58 @@
+body{
+    background-color: beige;
+}
+h1{
+    color: crimson;
+    text-align: center;
+}
+
+#header{
+    background-color: cadetblue;
+    height: 125px;
+    padding: 10px;
+}
+
+.desc{
+    text-align: center;
+}
+
+.menu li{
+    display: inline;
+    margin: 40px;
+}
+
+.menu a{
+    margin-left: 200px;
+}
+
+.menu a:hover{
+    font-weight: bold;
+    color: plum;
+}
+
+.isi::first-letter{
+    color: lightseagreen;
+    font-size: 40px;
+}
+
+.koleksi{
+    background-color: aliceblue;
+}
+
+.koleksi img{
+    width: 23%;
+}
+
+.promo{
+    text-align: center;
+}
+
+.promo ol{
+    text-align: left;
+    background-color: burlywood;
+}
+
+ol a:hover{
+    color: black;
+    font-weight: bold;
+}
